@@ -1,0 +1,80 @@
+GitHub asosan versiyalarni boshqarish va birgalikda
+dasturiy taminot ishlab chiqish uchun foydalaniladigan
+veb platformadir. U Linus Torvalds tomonidan yaratilgan
+Git versiyasini boshqarish tizimidan main kodidagi
+ozgarishlarni boshqarish va kuzatish uchun foydalanadi.
+GitHub nima ekanligi va u nimani o'z ichiga olganligi
+haqida umumiy malumot:
+
+Repositoriylar (reposlar):
+
+Repozitariylar GitHub ning asosiy elementlari hisoblanadi.
+Ular loyiha fayllari va o'zgarishlarni qayta ko'rib chiqish
+tarixi saqlanadigan saqlash joylari. Repozitariyda papkalar,
+fayllar, rasmlar, videolar, elektron jadvallar va ma'lumotlar
+to'plamlari bo'lishi mumkin - loyihangizga kerak bo'lgan hamma narsa.
+Repozitariylar ommaviy (hamma uchun ochiq)
+yoki shaxsiy (cheklangan kirish) bo'lishi mumkin.
+
+Versiya nazorati:
+
+GitHub bir nechta ishlab chiquvchilarga bir vaqtning o'zida
+bir loyiha ustida ishlash imkonini beruvchi mustahkam versiya
+boshqaruvini ta'minlaydi. U vaqt o'tishi bilan fayllarga kiritilgan
+o'zgarishlarni kuzatib boradi va turli manbalardan hissalarni
+birlashtirish orqali hamkorlikni osonlashtiradi.
+
+Filiallar:
+
+Filiallar ishlab chiquvchilarga asosiy kod bazasidan 
+(ko'pincha asosiy yoki asosiy filial deb ataladi) mustaqil
+ravishda xususiyatlar yoki tuzatishlar ustida ishlashga imkon beradi.
+Filialdagi o'zgarishlar yakunlangach, ular yana asosiy filialga birlashtirilishi mumkin.
+
+Majburiyat:
+
+Majburiyat - bu ombordagi fayllarga kiritilgan o'zgarishlarning surati.
+Har bir topshiriq noyob identifikatorga ega va loyiha tarixi va
+evolyutsiyasini kuzatishga yordam beradigan o'zgarishlarni 
+tavsiflovchi xabarni o'z ichiga olishi mumkin.
+
+Pull (PR):
+
+Pull so'rovlari - bu foydalanuvchi tomonidan taqdim etilgan
+va boshqalar tomonidan ko'rib chiqiladigan omborga taklif
+qilingan o'zgartirishlar. Ular GitHub hamkorlik modelining
+markaziy qismi bo‘lib, o‘zgarishlarni asosiy kod bazasiga 
+birlashtirishdan oldin kodni ko‘rib chiqish va muhokama qilishni 
+osonlashtiradi.
+
+Muammolar:
+
+Muammolar vazifalarni, yaxshilanishlarni,
+xatolarni va boshqa loyiha bilan bog'liq muhokamalarni
+kuzatish uchun ishlatiladi. Ular ombor ichidagi ishlarni
+boshqarish va ustuvorlik qilish usulini taqdim etadi.
+
+Loyihalar va muhim bosqichlar:
+
+GitHub muammolarni guruhlash va so'rovlarni katta ish 
+bo'linmalariga jalb qilish uchun Loyihalar (Kanban uslubidagi kengashlar) 
+va Milestones orqali loyihalarni boshqarishni qo'llab-quvvatlaydi, relizlar 
+yoki loyihaning asosiy bosqichlarini tashkil qilish va rejalashtirishga yordam beradi.
+
+Amallar:
+
+GitHub Actions - bu ish oqimlarini to'g'ridan-to'g'ri omboringizda
+avtomatlashtirish imkonini beruvchi xususiyatdir. U doimiy integratsiya
+va uzluksiz joylashtirish (CI/CD), sinov va joylashtirish kabi 
+vazifalarni avtomatlashtirish uchun ishlatilishi mumkin.
+
+Wiki:
+
+Har bir GitHub ombori hujjatlar uchun Wiki-ni o'z ichiga olishi mumkin,
+bu loyiha hujjatlarini osongina yaratish va saqlash uchun joy beradi.
+
+Hamjamiyat va hamkorlik:
+
+GitHub millionlab ishlab chiquvchilar va tashkilotlarga mezbonlik qiladi,
+bu foydalanuvchilar hamkorlik qilishi, baham ko'rishi va ochiq manbali 
+loyihalarga hissa qo'shishi mumkin bo'lgan boy hamjamiyatni rivojlantiradi.
